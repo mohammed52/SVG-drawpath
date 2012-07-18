@@ -34,7 +34,7 @@ public class MyImageView extends ImageView implements OnTouchListener{
 	private float scale = 1.f;
 	private float totalScale = 1;
 	private float[] f;
-	
+	 private Integer test = 4;
     static final int NONE = 0;
     static final int ZOOM = 1;
     static final int DRAG =2;
